@@ -20,3 +20,56 @@ Me chamo André Victor Silva Sales, tenho 20 anos e sou natural do Piauí. Concl
         />
     </a>
 </p>
+
+---
+
+### 🤖 Linguagens e Tecnologias
+
+
+<img
+    align="left" 
+    alt="SQL Server"
+    title="SQL Server" 
+    width="40px" 
+    style="padding-right: 10px;"    
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"
+/>
+
+<img
+    align="left" 
+    alt="SQL Server"
+    title="SQL Server" 
+    width="40px" 
+    style="padding-right: 10px;"    
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
+/>
+
+<img
+    align="left" 
+    alt="SQL Server"
+    title="SQL Server" 
+    width="40px" 
+    style="padding-right: 10px;"  
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<img
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" 
+/>
+
+          
+          
+          
