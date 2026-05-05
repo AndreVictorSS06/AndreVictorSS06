@@ -25,7 +25,6 @@ Me chamo André Victor Silva Sales, tenho 20 anos e sou natural do Piauí. Concl
   <img alt="Flutter" title="Flutter" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
 </p>
 
-### 📊 Estatísticas
 
 ### 📊 Estatísticas
 
