@@ -26,6 +26,3 @@ Me chamo André Victor Silva Sales, tenho 20 anos e sou natural do Piauí. Concl
 </p>
 
 
-### 📊 Estatísticas
-
-
