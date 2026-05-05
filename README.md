@@ -28,6 +28,7 @@ Me chamo André Victor Silva Sales, tenho 20 anos e sou natural do Piauí. Concl
 
 ### 📊 Estatísticas
 
-| | |
-| --- | --- |
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndreVictorSS06&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&v=2026) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreVictorSS06&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&v=2026) |
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=AndreVictorSS06&show_icons=true&theme=dark&include_all_commits=true&count_private=true&locale=pt-br&v=refresh_99" alt="GitHub Stats" height="190" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreVictorSS06&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9&v=refresh_99" alt="Top Langs" height="190" />
+</p>
